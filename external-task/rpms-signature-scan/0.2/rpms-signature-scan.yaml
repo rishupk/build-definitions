@@ -1,1 +1,1 @@
-task_bundle: quay.io/konflux-ci/tekton-catalog/task-rpms-signature-scan:0.2@sha256:950ff25761458ba3a2b44748778c1cb31656149a4a3d56be4b32434d37827270
+task_bundle: quay.io/konflux-ci/tekton-catalog/task-rpms-signature-scan:0.2@sha256:b01333d3ee423a05b98fb9ff1f621e4b3d8a481f7e4e797d50bd384f0e9abedf
